@@ -1,0 +1,13 @@
+{
+  "name": "HBS PWA",
+  "short_name": "HBS",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
