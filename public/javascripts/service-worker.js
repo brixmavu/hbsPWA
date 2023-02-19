@@ -21,8 +21,8 @@ self.addEventListener('install', function(event) {
         return cache.addAll([
           // '/',
           '/stylesheets/style.css',
-          'javascripts/script.js',
-          'images/image.png'
+          '/javascripts/script.js',
+          '/images/image.png'
         ]);
       })
   );
